@@ -6,7 +6,7 @@ The Situational Awareness for Novel Epidemic Response Implementation Guide enabl
 of high level situational awareness information from inpatient facilities to centralized
 data repositories to support the treatment of novel influenza-like illness.
 
-![The SANER Project Logo](SANERLogo.png)
+![The SANER Project Logo](https://github.com/AudaciousInquiry/fhir-saner/raw/master/SANERLogo.png)
 
 
 **Fighting COVID-19 with FHIR®**
